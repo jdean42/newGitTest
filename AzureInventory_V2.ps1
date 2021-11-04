@@ -1,4 +1,4 @@
-<#
+#<#
 #          Script: Azure Inventory Script                                           
 #            Date: August 13, 2018                                                                     
 #          Author: Manjunath
